@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'gradle-sandbox'
+include('platform')
+include('service')
